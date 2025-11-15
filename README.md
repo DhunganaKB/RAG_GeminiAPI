@@ -1,4 +1,4 @@
-# Gemini File Search — Version1
+# File Search Tool in Gemini API
 
 This folder contains two variants of an incremental indexer and a small FastAPI query service:
 
